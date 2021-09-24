@@ -32,3 +32,7 @@ F1-Scores obtained on the validation set which is derived from a randomised subs
 | Maximum Entropy	| 0.793171	| 0.793171 |	0.784938 |
 | LSTM	|0.785949 |	0.785949 |	0.768959|
 
+
+## File Requirements 
+Kindly find the required Glove Embedding text file (glove.6B.100d.txt) from:
+https://nlp.stanford.edu/projects/glove/
